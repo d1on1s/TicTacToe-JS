@@ -1,0 +1,23 @@
+.jumbotron {
+  min-height: 100%;
+  min-height: 100vh;  
+  display: flex;
+  align-items: center;
+  background-image: url(../img/bg.jpg);
+  background-size: cover;
+}
+
+.desk {
+  height: 120px;
+  width: 120px;
+  border: 2px solid;
+  background-color: #caebba
+}
+
+img {
+  width: 110px;
+}
+
+#status {
+  margin-top: 20px;
+}
